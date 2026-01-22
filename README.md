@@ -1,5 +1,5 @@
 # Introduction-to-Python
-This tutorial covers basic NumPy and Pandas libraries to get Civil Engineers fundamental skills in Python.
+This tutorial covers basic NumPy, Pandas, and visualization libraries to support Civil Engineer and Hydrologists training with fundamental skills in Python.
 The .ipynb files in this tutorial have been modified from other, with the original authors referenced the respective readme.md files.
 
 # Getting Started: 
@@ -17,8 +17,8 @@ Creating a Python virtual environment is useful if you need different versions o
 Lastly, a virtual environment keeps things tidy, makes sure your main Python installation stays healthy and supports reproducible and open science.
 
     cd Introduction-to-Python
-    conda env -f create 310environment.yml
-    conda activate 310environment
+    conda env -f create p310env.yml
+    conda activate p310env
 
 In some cases:
 
